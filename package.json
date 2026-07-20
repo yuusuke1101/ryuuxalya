@@ -48,13 +48,13 @@
         "futoin-hkdf": "^1.5.1",
         "libphonenumber-js": "^1.10.20",
         "lodash": "^4.17.21",
-        "libsignal": "github:realvare/libsignal",
+        "libsignal": "^6.0.0",
         "music-metadata": "^7.12.3",
         "node-cache": "^5.1.2",
         "node-fetch": "^2.6.1",
         "pino": "^7.0.0",
         "protobufjs": "^7.2.4",
-        "uuid": "^9.0.0",
+        "uuid": "^9.0.1",
         "ws": "^8.13.0"
     },
     "devDependencies": {
